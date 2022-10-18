@@ -16,6 +16,6 @@ Data de ínicio 12/10/2022
 14/10/2022 - 2 horas e 31 minutos  
 15/10/2022 - 0 horas (abaixo do tempo mínimo)  
 16/10/2022 - 0 horas (abaixo do tempo mínimo)  
-17/10/2022 - 
+17/10/2022 - 2 horas 24 minutos (abaixo do tempo mínimo)
 
 Data do fim 20/11/2022

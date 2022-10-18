@@ -4,6 +4,8 @@ Nessa aula exclusivamente eu irei baixar o código do GitHub e irei fazer toda a
 
 A partir daqui a aula será feita na maquina virtual linux 
 
+## Preparando o repositório para fazer uma colaboração via maquina virtual linux
+
 Bem eu gastei um bom tempo criando a conta no github e no git e tem alguns processos que precisam ser feitos como as chaves ssh do github.
 
 Por conta disso vou ter que rever algumas aulas de git e github.
@@ -48,8 +50,35 @@ Tutorial para eu fazer um pull-request e contribuir com um projeto que eu fiz um
 
 Tive problemas para fazer um git push depois dessa autenticação ssh..
 
-https://www.fredericodecastro.com.br/git-push-via-ssh/
+Resolvi com esse link 
 
-Resolvi com esse link.
+[stackoverflow](https://pt.stackoverflow.com/questions/551419/problemas-ao-realizar-o-push-no-git) 
+
+A explicação do usuário Danizavtz me ajudou a resolver o problema. Agora posso começar a aula sem problemas.
+
+## Intalação do JDK e Git no Ubuntu
+
+Eu já tenho o Git se a Camila atualizar a versão farei isso.
+
+Eu acredito que segui os passos para instalar o Java no curso da Camila e já tenho ele, sei disso porque executei o comando:  
+java -version 
+
+Agora tem que configurar o Java Home porque o java já está instalado. Para isso devemos usar o comando abaixo para saber o caminho da instalação do Java  
+
+**sudo update-alternatives --config java** 
+
+Vamos usar o comando para alterar um arquivo:  
+
+sudo gedit ~/.bashrc
+
+colamos a variavel do Java no fim do arquivo, e usamos o comando 
+
+**cat ~/.bashrc** 
+
+Para verificar se aconteceu as alterações no arquivo, no meu caso ocorreu.
+
+A instalação do git eu já havia feito então foi desnecessário realizar
+
+[o link do repositório da Camila Cavalcante com todos os passos](https://github.com/cami-la/curso-dio-dominando-ides-java)
 
 Fim da aula
