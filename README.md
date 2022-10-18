@@ -13,9 +13,6 @@ Data de ínicio 12/10/2022
 
 12/10/2022 - 3 horas e 6 minutos de prática (tempo mínimo).  
 13/10/2022 - 4 horas e 6 minutos (desejável)  
-14/10/2022 - 2 horas e 31 minutos  
-15/10/2022 - 0 horas (abaixo do tempo mínimo)  
-16/10/2022 - 0 horas (abaixo do tempo mínimo)  
-17/10/2022 - 2 horas 24 minutos (abaixo do tempo mínimo)
+14/10/2022 - 2 horas e 31 minutos 
 
 Data do fim 20/11/2022
