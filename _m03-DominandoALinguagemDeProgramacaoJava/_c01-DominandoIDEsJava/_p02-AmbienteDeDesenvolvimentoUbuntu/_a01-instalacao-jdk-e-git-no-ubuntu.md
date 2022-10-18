@@ -46,4 +46,10 @@ https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-g
 
 Tutorial para eu fazer um pull-request e contribuir com um projeto que eu fiz um fork.
 
+Tive problemas para fazer um git push depois dessa autenticação ssh..
+
+https://www.fredericodecastro.com.br/git-push-via-ssh/
+
+Resolvi com esse link.
+
 Fim da aula
