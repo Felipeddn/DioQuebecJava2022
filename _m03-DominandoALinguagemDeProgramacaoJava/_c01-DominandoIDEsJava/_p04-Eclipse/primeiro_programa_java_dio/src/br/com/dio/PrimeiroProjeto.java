@@ -24,7 +24,6 @@ public class PrimeiroProjeto {
 		//classes no mesmo código não é necessário a importação
 		Livros livros = new Livros();
 		
-		
 		System.out.println(gato);
 		System.out.println(livros);
 	}
