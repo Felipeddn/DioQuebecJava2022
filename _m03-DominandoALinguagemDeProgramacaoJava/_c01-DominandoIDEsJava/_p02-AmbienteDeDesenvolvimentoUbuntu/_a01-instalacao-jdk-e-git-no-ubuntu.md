@@ -1,5 +1,7 @@
 # Instalação JDK e Git no Ubuntu
 
+Camila Cavalcante
+
 Nessa aula exclusivamente eu irei baixar o código do GitHub e irei fazer toda a aula no Ubuntu através de uma máquina virtual.
 
 A partir daqui a aula será feita na maquina virtual linux 
